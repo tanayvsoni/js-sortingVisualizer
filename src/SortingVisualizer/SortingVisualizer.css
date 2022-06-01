@@ -100,20 +100,6 @@
     text-align: center;
 }
 
-
-/* Footer */
-.footerContainer {
-    position: fixed;
-    bottom: 2vh;
-    width: 100%;
-    height: 5vh;
-    min-height: 30px;
-    bottom: 0;
-    background-color: #4A6274;}
-
-/* Dummy */
-.dummyText {visibility: hidden;}
-
 .slider {
     -webkit-appearance: none;
     height: 20px;
@@ -145,6 +131,22 @@
     background: #79aeb2;
     cursor: pointer;
 }
+
+
+/* Footer */
+.footerContainer {
+    position: fixed;
+    bottom: 2vh;
+    width: 100%;
+    height: 5vh;
+    min-height: 30px;
+    bottom: 0;
+    background-color: #4A6274;}
+
+/* Dummy */
+.dummyText {visibility: hidden;}
+
+
 
 
 

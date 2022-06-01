@@ -294,7 +294,6 @@ class SortingVisualizer extends React.Component {
                         <div 
                             className="arrayBar" style={{ height: `${value}px` }}>
                             <p className="dummyText">1</p>
-                            {value}
                         </div>
                     ))}
                 </div>
